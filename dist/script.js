@@ -1,5 +1,5 @@
-// Set the verified WhatsApp number in international format (digits only) after design approval.
-const WHATSAPP_NUMBER = '';
+// Company WhatsApp number in international format (digits only).
+const WHATSAPP_NUMBER = '2348028900207';
 const menu = document.querySelector('.menu');
 const nav = document.querySelector('#navigation');
 function setMenu(open) {
